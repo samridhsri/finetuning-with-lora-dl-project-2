@@ -2,8 +2,9 @@
 # Deep Learning CS 6953 / ECE 7123 Spring 2025 (Project 2)
 
 This repository contains a notebook to fine-tune a RoBERTa model using parameter-efficient fine-tuning (LoRA) on a text classification task. The notebook demonstrates setup, model loading, data processing, training, and evaluation.
-Also, project report
+Also, the repository includes a project report detailing the methodology, experiments, results, and key insights from the fine-tuning process.
 
+Competition Link: https://www.kaggle.com/competitions/deep-learning-spring-2025-project-2/overview
 ## Team Members
 - Samridh Srivastava (ss18906)
 - Krittin Nagar (kn2670)
